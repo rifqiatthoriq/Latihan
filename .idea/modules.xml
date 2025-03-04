@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PBO_C_rifqi_atthoriq_106/Codelab/Codelab.iml" filepath="$PROJECT_DIR$/PBO_C_rifqi_atthoriq_106/Codelab/Codelab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pemrograman berorientasi objek.iml" filepath="$PROJECT_DIR$/.idea/Pemrograman berorientasi objek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PBO_C_rifqi_atthoriq_106/Tugas/Tugas.iml" filepath="$PROJECT_DIR$/PBO_C_rifqi_atthoriq_106/Tugas/Tugas.iml" />
+    </modules>
+  </component>
+</project>
